@@ -5,3 +5,7 @@ as well, from time to time.
 Day 1
 -----
 * [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day1.rs)
+
+Day 2
+-----
+* [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day2.rs)
