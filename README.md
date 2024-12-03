@@ -9,3 +9,7 @@ Day 1
 Day 2
 -----
 * [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day2.rs)
+
+Day 3
+-----
+* [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day3.rs)
