@@ -25,3 +25,7 @@ Day 5
 Day 6
 -----
 * [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day6.rs)
+
+Day 7
+-----
+* [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day7.rs)
