@@ -33,3 +33,7 @@ Day 7
 Day 8
 -----
 * [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day8.rs)
+
+Day 9
+-----
+* [Rust Implementation](https://github.com/marcus0x62/adventofcode-2024/blob/main/src/bin/day9.rs)
